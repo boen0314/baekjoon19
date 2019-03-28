@@ -19,7 +19,7 @@ class Person {
 }
 
 // 새로운 유형! 잘 익혀두기! ♡♡♡♡♡
-public class rr_sm_9376 {
+public class rrr_sm_9376 {
 
 	static int T;
 	static int H, W;
