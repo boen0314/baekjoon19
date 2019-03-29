@@ -1,4 +1,4 @@
-package dfs_bfs_binary;
+package binary_search;
 
 import java.io.BufferedReader;
 import java.io.IOException;

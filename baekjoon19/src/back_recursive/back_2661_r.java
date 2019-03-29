@@ -1,9 +1,10 @@
-package back;
+package back_recursive;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+// 재귀(recursive) 문제
 public class back_2661_r {
 
 	static int N;
