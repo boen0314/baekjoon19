@@ -22,7 +22,7 @@ class Bead {
 	}
 }
 
-public class sm_13460_rrr {
+public class rr_sm_13460 {
 
 	static int N, M;
 	static char[][] matrix;

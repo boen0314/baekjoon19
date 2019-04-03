@@ -1,4 +1,4 @@
-package simulation;
+package samsung;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -18,7 +18,7 @@ class Puyo {
 
 // gravity() 메소드 잘 익히기
 // ss_12100 문제와 유사한 메소드임
-public class r_sm_11559_rrr {
+public class rr_sm_11559 {
 
 	static char[][] matrix;
 
