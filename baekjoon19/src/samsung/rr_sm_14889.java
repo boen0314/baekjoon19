@@ -39,15 +39,6 @@ public class rr_sm_14889 {
 				start[i] = false; // 백트래킹
 			}
 		}
-
-		// 이런식으로 하면 start[] 배열을 static으로 사용하면 안됨
-		// s+1인 dfs랑 s인 dfs랑 같이 사용되서 충돌되므로
-
-		// start[i] = true;
-		// DFS(s + 1, len + 1);
-		// start[i] = false; // 백트래킹
-		//
-		// DFS(s, len + 1);
 	}
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
